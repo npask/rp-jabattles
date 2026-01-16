@@ -1,6 +1,6 @@
 {
   "ip": "localhost",
-  "port": "25568",
-  "online": true,
+  "port": "25565",
+  "online": false,
   "players": 5
 }
